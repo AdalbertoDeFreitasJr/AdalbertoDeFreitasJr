@@ -1,75 +1,141 @@
-# Olá, meu nome é Adalberto Jr :facepunch: 
 
-<!-- Imagem do progrmador -->
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Mzem9sdDJjOWs3bTV3bm43MHVxbWRtOWxqMjNqbXFjMHl1ZmZ4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+# Olá! Eu sou Adalberto Jr 👋
 
-## :bulb: Interesses 
-- [X] UI/UX Design
-- [X] Inteligência Artificial
-- [X] Programação
-- [X] Músicas  
+**Arquiteto de Software Sênior \| Software Architecture \| Product &
+Project Management \| Tech Lead**
 
-## :computer: Trabalhando  
-Analista de sistemas **Pleno** na empresa **_Solus_** e tecladista nas horas vagas!
+Profissional de tecnologia com anos de experiência
+em desenvolvimento de software, arquitetura de sistemas e liderança
+técnica, com atuação em soluções de grande porte.
 
-Atualmente, trabalho no setor de **_Análise técnica_**:
-- [X] Entrevista com o cliente para levantamento de requisitos de projetos de médio e grande porte
-- [X] Discutindo a arquitetura de software com clientes
-- [X] Orientando a equipe de desenvolvimento
-- [X] Entrega do recurso desenvolvido aos clientes
-- [X] Escrita de documentação técnica 
+Tenho experiência na evolução de soluções que integram aplicações
+desktop, sistemas web, aplicativos e APIs, conectando necessidades de
+negócio a soluções técnicas.
 
----
-Linguagens que já trabalhei durante minha vida de programador:
+### 💡 Áreas de interesse profissional
 
-<details>
-  <summary> Front End </summary>
-  <p align="left">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>    
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> 
-  </p>  
-</details>
+- [X]   Arquitetura de Software / Software Architect
+- [X]  Product Manager (PM) e Product Owner (PO)
+- [X]  Project Manager / Gestão de Projetos
+- [X]  Tech Lead / Liderança Técnica
+- [X]  Analista de Sistemas Sênior
+- [X]  Inteligência artificial
 
-<details>
-  <summary> Bakc End </summary>
-  <p align="left">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/>  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>
-  </p>
-</details>
+## 🇧🇷 Sobre mim
 
-<details>
-  <summary> Devops </summary>
-    <p align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>  
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>  
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/>  
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/>  
-    </p>
-</details>
+Atuei na arquitetura e evolução de um ERP voltado à gestão de diferentes 
+áreas de uma operadora de planos de saúde, abrangendo os processos Comercial, 
+Financeiro, Faturamento, Contábil e regulatórios, incluindo demandas fiscais e da ANS, entre outros.
 
-<details>
-  <summary> Outras linguagens/softwares </summary>
-    <p align="left">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>  
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/>  
-    </p>
-</details>
+O ecossistema tecnológico era composto por módulos desktop desenvolvidos em Delphi, 
+sistemas web e integrações por meio de APIs. 
+Nesse cenário, participei de iniciativas relacionadas à arquitetura de soluções, 
+integração com instituições financeiras, desenvolvimento de portais e funcionalidades digitais, 
+estruturação de processos e elaboração de documentação técnica.
 
----
-## :mortar_board: Formação e estudos 
-:house: Instituto Federal do Paraná - Campus Londrina: Tecnologo em análise e desenvolvimento de sistemas
+Paralelamente à atuação técnica, desenvolvi experiência e interesse em atividades 
+relacionadas à gestão de produtos e projetos, participando do entendimento das necessidades do negócio, 
+levantamento e análise de requisitos, definição de soluções e priorização de demandas.
 
-### :books: Cursos extras 
-- **FLAPS** - Liderança Adaptágil
-- Curso de HTML/CSS para iniciantes - Origamid
-- Curso de UI/UX para iniciantes - Origamid
-- Curso de UI/UX avançado - Origamid
-- Curso de Git/GitHub
-- Curso de pentest
+Essa atuação multidisciplinar me proporcionou uma visão integrada entre tecnologia e negócio, 
+permitindo conectar aspectos técnicos e estratégicos e contribuir 
+para a transformação das necessidades dos usuários e dos o
+bjetivos organizacionais em soluções viáveis, estruturadas e alinhadas aos resultados esperados.
+
+
+### Experiência profissional
+
+**Canopy Solus Computação**\
+**Arquiteto de Software Sênior** · 04/2020 - 11/2026
+
+Principais frentes de atuação: 
+
+- Definição e evolução de arquitetura de
+sistemas. 
+- Análise técnica e desenho de soluções. 
+- Integração entre aplicações e serviços por APIs. 
+- Modernização e evolução de sistemas existentes. 
+- Definição de padrões técnicos e apoio às decisões de
+tecnologia. 
+- Modelagem de dados e análise de consultas SQL. 
+- Documentação técnica e organização do fluxo de desenvolvimento. 
+- Liderança técnica de equipes de desenvolvimento, incluindo distribuição
+e priorização de atividades, acompanhamento de entregas e alinhamento
+com gestores e áreas de negócio.
+
+### Projetos e iniciativas em destaque
+
+#### 💼 Negócio / Processos
+
+- [X] **Inteligência artificial** - Apoio na regra de negócio da empresa treinando o modelo 
+com o objetivo de otimizar as tarefas dos colaboradores nos fluxos de desenvolvimento 
+da empresa (Triagem/Entendimento, Desenvolvimento e Sustentação/Suporte).
+
+- [X] **Design System e UI/UX** - Criação de um Design System (Nexus DS) utilizando o Figma 
+para padronização do ecossistema Solus na experiência dos usuários, produtos, sistemas e 
+dos componentes de interface.
+
+- [X] **Processo de desenvolvimento da Solus** - Estruturação de um fluxo de desenvolvimento da empresa 
+contemplando as fases de Entendimento da demanda, Análise técnica, Plano de testes e Evidências de testes.
+
+- [X] **Documentação técnica** - Criação e organização de documentação do ecossistema Solus e 
+dos processos da empresa na base de conhecimento através do Confluence.
+
+#### 💰 Técnico - Func. financeiras
+
+- [X] **PIX Automático/Assinatura Recorrente** - Estruturação técnica do ecossistema Solus para trabalhar com a integração técnica do PIX Automático e assinaturas recorrentes de pagamento com Cartão de crédito utilizando várias integrações financeiras distintas (Banco Itaú, Sicredi, Bradesco, Santander, Caixa ecônomica, Banco do Brasil, entre outros).
+
+- [X] **Integrações financeiras** - Desenho de arquitetura de integração com bancos e instituições financeiras privadas para emissão/baixa de documentos e conciliação bancária (Banco Itaú, Sicredi, Bradesco, Santander, Caixa econômica, Banco do Brasil, entre outros).
+
+#### 📘 Técnico - Func. gerais
+
+- [X] **Assinatura Eletrônica** - Estruturação técnica do ecossistema Solus para trabalhar com a integração técnica com sistemas que realizam a assinatura eletrônica de documentos através de API (D4Sign, Docusign, entre outros).
+
+- [X] **Carteirinha virtual** - Desenho da arquitetura para implementação da visualização da carteirinha nos ambientes do sistema, web e aplicativo próprio.
+
+#### 🏛️ Técnico - Func. Legislativas 
+
+- [X] **Nota fiscal** - Estruturação técnica do ecossistema Solus para trabalhar com a integração técnica de notas fiscais através de provedores municipais e no padrão nacional com as alterações da reforma tributária.
+
+- [X] **Cadbenef/VCOM** - Estruturação técnica do ecossistema Solus para trabalhar com a integração técnica de beneficiários e contratos para comunicação com a Unimed Brasil.
+
+- [X] **SIB API** - Estruturação técnica do ecossistema Solus para trabalhar com a integração técnica de beneficiários e contratos para envio ao Sistema Informação de Beneficiários (SIB) da ANS.
+
+#### 🌐 Portais e soluções digitais
+Desenho de soluções para diferentes jornadas e áreas do negócio: 
+
+- [X] **Portal do Beneficiário**: Funcionalidades básicas para os beneficiários da Operadora;
+- [X] **Portal Web Empresa**: Funcionalidades básicas para os contratos empresariais da Operadora;
+- [X] **Portal CRM de Vendas**: Jornada de compra de um plano de Saúde utilizando a metodologia de Funil de Vendas;
+- [X] **Portal CRM de Cobrança**: Jornada de cobrança de contratos inadimplentes da Operadora;
+- [X] **Portal de Vendas Online**: Jornada de auto atendimento de contratação do plano de saúde e serviços pelo beneficiário;
+- [X] **Portal de Negociação de Reajuste**: Jornada de negociação do reajuste contratual de contratos empresariais;
+- [X] **Portal de Renegociação de Dívidas**: Jornada de auto atendimento de negociação de dívidas dos contratos inadimplentes;
+
+## 🧰 Competências técnicas
+
+**Linguagens e desenvolvimento:** Java, PHP, Delphi e React.<br>
+**Banco de dados:** Oracle, modelagem de dados, consultas, procedures, triggers e functions.<br>
+**Arquitetura e integração:** Microsserviços, APIs, Webhooks, comunicação assíncrona e RabbitMQ.<br>
+**Engenharia de software:** MVC, SOLID e Design Patterns.<br>
+**Ferramentas e processos:** Git, GitHub, CI/CD, pipelines de deploy e Confluence.<br>
+**Conhecimento de negócio:** Saúde Suplementar, processos operacionais de operadoras, faturamento, cadastro, comercial e integrações regulatórias.<br>
+**Metodologias e gestão Ágil de projetos:** Kanban (BusinessMap) e Scrum (sistema próprio da empresa). <br>
+
+## 🎓 Formação acadêmica
+
+**Tecnologia em Análise e Desenvolvimento de Sistemas**\
+Instituto Federal do Paraná (IFPR) · 2012--2015
+
+## 📚 Cursos complementares e desenvolvimento contínuo (recentes)
+
+-   **AUVP:** em andamento
+-   **Comunicação não agressiva** - 2026
+
+## 🎫 Eventos
+- **The Development Conference (TDC) São Paulo:** 2026;
+
+## 🌎 Idiomas
+
+-   **Português:** fluente / idioma principal.
+-   **Inglês:** bom conhecimento técnico; nível básico de conversação.
